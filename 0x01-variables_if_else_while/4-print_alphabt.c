@@ -5,7 +5,7 @@
  * Description: 'printing'
  * Return: Always 0 (Success)
  */
-int main(void)
+void main()
 {
 	char la;
 
